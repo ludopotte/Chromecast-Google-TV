@@ -1,6 +1,6 @@
 CLE HDMI DE GOOGLE AVEC ANDROID TV
 
-APPLICATIONS A INSTALLER AU https://github.com/ludopotte/Chromecast-Google-TV/releases/
+APPLICATIONS A INSTALLER AU https://github.com/ludopotte/Chromecast-Google-TV/releases/tag/chromecastgoogletv
 
 LOGICIELS A INSTALLER AU https://github.com/ludopotte/Chromecast-Google-TV/releases/tag/chromecastgoogletv2
 
